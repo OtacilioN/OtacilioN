@@ -10,7 +10,7 @@
 ![Otacilio's github stats](https://github-readme-stats.vercel.app/api?username=OtacilioN) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OtacilioN&layout=compact)
 
 
-![GitHub Followers](https://img.shields.io/github/followers/OtacilioN?style=social) ![Follor me on Twitter](https://img.shields.io/twitter/follow/Otacilio_Maia?style=social) ![Reach me on LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&link=http:///www.linkedin.com/in/otacilio/)
+![GitHub Followers](https://img.shields.io/github/followers/OtacilioN?style=social) [![Follor me on Twitter](https://img.shields.io/twitter/follow/Otacilio_Maia?style=social)](https://twitter.com/Otacilio_Maia) [![Reach me on LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&link=http:///www.linkedin.com/in/otacilio/)](https://www.linkedin.com/in/otacilio/)
 
 
 
