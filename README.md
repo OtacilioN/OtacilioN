@@ -7,7 +7,7 @@
 - 😄 Pronouns: Him/His
 - ⚡ Fun fact: I have a tattoo written `git commit -m "first tattoo"`
 
-![Otacilio's github stats](https://github-readme-stats.vercel.app/api?username=OtacilioN)
+![Otacilio's github stats](https://github-readme-stats.vercel.app/api?username=OtacilioN&show_icons=true&theme=radical)
 
 ![GitHub Followers](https://img.shields.io/github/followers/OtacilioN?style=social) [![Follor me on Twitter](https://img.shields.io/twitter/follow/Otacilio_Maia?style=social)](https://twitter.com/Otacilio_Maia) [![Reach me on LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&link=http:///www.linkedin.com/in/otacilio/)](https://www.linkedin.com/in/otacilio/)
 
