@@ -1,6 +1,6 @@
 # Hi There, I'm Otacilio Maia 👋
 
-- 🔭 I’m currently working as Software Engineer [@iFood](https://github.com/ifood)
+- 🔭 I’m currently working as Software Engineer building [Aprendizap](https://www.aprendizap.com.br) with [@Fundação 1Bi](https://github.com/Fundacao-1Bi) and [@iFood](https://github.com/ifood) building Aprendizap with 
 - 🌱 I’m learning about Gatsby
 - 👯 I’m looking to collaborate on Educational and Social impact open source projects
 - 💬 Ask me about `[Git, React, React Native, Chatbots, Javascript, Arduino]` 
