@@ -1,6 +1,6 @@
 # Hi There, I'm Otacilio Maia 👋
 
-- 🔭 I’m currently working as Software Engineer building [Aprendizap](https://www.aprendizap.com.br) with [@Fundação 1Bi](https://github.com/Fundacao-1Bi) and [@iFood](https://github.com/ifood)
+- 🔭 I’m currently working as Software Engineering Manager building [Aprendizap](https://www.aprendizap.com.br) with [@Fundação 1Bi](https://github.com/Fundacao-1Bi) and [@iFood](https://github.com/ifood)
 - Enroled in a software engineering professional master's degree at Cesar School
 - :clapper:	Check my [Youtube Channel](https://www.youtube.com/channel/UCyU2F3ngeQhcx9ZM7DyszUg) in Brazilian Portuguese :brazil:
 - 👯 I’m looking to collaborate on Educational and Social impact open source projects
